@@ -62,7 +62,7 @@
     "type-fest": "^4.10.3",
     "wink-eng-lite-web-model": "^1.5.2",
     "wink-nlp": "^1.14.3",
-    "zod": "^3.22.4",
+    "zod": "^3.25.76",
     "zod-gpt": "^0.15.1"
   },
   "devDependencies": {
